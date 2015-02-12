@@ -6,3 +6,4 @@ one
 two
 Creating a new branch is quick and simple.
 three
+four
